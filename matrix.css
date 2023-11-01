@@ -1,0 +1,49 @@
+body
+{
+    background-color: powderblue;
+}
+
+h2
+{
+    color: rgb(178, 88, 32);
+}
+.full-wraper
+{
+    width: 100%;
+}
+.wraper{
+  width: 1100px;
+  margin: 0 auto;
+}
+.logo img
+{
+    width: 50px;
+    padding: 5px;
+    float:left;
+}
+
+.manu 
+{
+    float:initial;
+    width: 960px;
+    text-align:left;
+    margin-top: 15px;
+    
+    
+}
+.manu a {
+    color:royalblue ;
+    padding: 10px;
+    font-size: 24px;
+    
+    }
+
+    .banner-text{
+
+        background-image: url(images/back.jpg);
+        
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding: 200px 0 ;
+    }
